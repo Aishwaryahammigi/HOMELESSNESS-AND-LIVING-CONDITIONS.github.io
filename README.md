@@ -8,7 +8,7 @@ Here's a glimpse into my journey:
 
 ## 🛠 Projects
 
-### **HOMELESS AND PUBLIC SERVICES**  
+### **HOMELESSNESS AND LIVING CONDITIONS**  
 
 **OVERVIEW:**
 1. Lack of Access to Schools
@@ -65,7 +65,7 @@ Timely and tailored assistance leads to better hygiene, health, and overall livi
 - **SRN**: 02FE23BCS012
 - **Course Instructor**: Vaishali Y Parab  
 - **University**:KLE TECHNOLOGICAL UNIVERSITY
-  - **Topic:** Homeless And Public Services
+  - **Topic:** Homelessness and Living Conditions
 ---
 
 ## 🎨 What Drives Me  
