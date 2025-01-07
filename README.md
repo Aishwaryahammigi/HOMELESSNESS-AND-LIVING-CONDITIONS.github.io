@@ -11,33 +11,30 @@ Here's a glimpse into my journey:
 ### **HOMELESSNESS AND LIVING CONDITIONS**  
 
 **OVERVIEW:**
-1. Lack of Access to Schools
-Schools may be located far from slums, making attendance difficult.
-Insufficient number of schools to cater to growing populations in slums.
-2. Poverty
-Families often prioritize earning over education, leading children to work instead of attending school.
-Inability to afford uniforms, books, and fees.
-3. Poor Infrastructure
-Overcrowded classrooms and lack of basic facilities like clean drinking water, toilets, or proper lighting.
-Inadequate teaching materials and resources.
-4. Social Barriers
-Stigma and discrimination against slum residents can discourage children from attending school.
-Gender inequality, where girls may face additional barriers like early marriage or safety concerns.
+1. Economic Factors: Unemployment, low wages, and rising costs of living can lead to homelessness.
+2. Housing Issues: Lack of affordable housing, evictions, and housing discrimination are significant contributors.
+3. Health Problems: Mental illness, substance abuse, and chronic health conditions can result in or exacerbate homelessness.
+4. Systemic Issues: Inadequate social services, lack of mental health care, and insufficient support for veterans and marginalized groups.
+Living Conditions of the Homeless
+5. Shelters: Many homeless individuals rely on temporary shelters for accommodation. However, shelters often have limited capacity and may not be available year-round.
+6. Unsheltered Homelessness: Some live in public spaces like parks, streets, and abandoned buildings. These conditions are harsh and unsafe.
+7. Encampments: Informal settlements, or tent cities, are created by homeless communities. While they offer some protection and community, they often lack basic amenities.
+Challenges Faced by Homeless Individuals
+1. Health Risks: Exposure to the elements, lack of sanitation, and limited access to healthcare contribute to poor health outcomes.
+2. Safety Concerns: Homeless individuals are at higher risk of violence, theft, and exploitation.
+3. Access to Services: Barriers such as lack of identification, transportation, and awareness limit access to social services and employment opportunities.
 
 **Technical Stack:**  
 Languages: C++, Java
-Algorithms: Dijkstra’s, A*, KMP, Chain Hashing, Graph Traversal (DFS/BFS)
+Algorithms: Dijkstra’s, Greedy Algorithm, Dynamic Programming, Graph Traversal (DFS/BFS), Max Flow
 Tools: Graphs, DAA Optimization Techniques
 
 **Impact:**
-1. Enhanced Resource Allocation:
-Ensures resources like food, shelter, and medical aid reach the most vulnerable families efficiently.
-2. Increased Transparency:
-Provides a systematic and fair approach to aid distribution, promoting trust among beneficiaries.
-3. Data-Driven Interventions:
-Facilitates the identification of critical needs, enabling NGOs to design targeted and impactful programs.
-4. Improved Living Conditions:
-Timely and tailored assistance leads to better hygiene, health, and overall living standards in slum areas.
+1. Health: Poor physical and mental health, higher mortality rates.
+2. Safety: Increased risk of violence and exploitation.Education: Disruption in schooling, affecting future opportunities.
+3. Development: Emotional and cognitive challenges in children.
+4. Public Health: Spread of diseases due to poor living conditions.
+5. Social Issues: Increased crime perception, social tension, and community strain.
 ## 🚀 **Skills** 
 
 - Proficient in C++. 
@@ -55,7 +52,7 @@ Timely and tailored assistance leads to better hygiene, health, and overall livi
 
 ### 🎯 **Topic:** Homelessness And Living Conditions
 - DAA (Design and Analysis of Algorithms)  
-- Focus: Algorithmic Problem Solving for Pollution cities  
+- Focus: Algorithmic Problem Solving for homeless individuals 
 
 ### 📋 **Details:**
 
