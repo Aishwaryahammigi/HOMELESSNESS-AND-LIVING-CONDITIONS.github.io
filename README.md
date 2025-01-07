@@ -19,10 +19,6 @@ Living Conditions of the Homeless
 5. Shelters: Many homeless individuals rely on temporary shelters for accommodation. However, shelters often have limited capacity and may not be available year-round.
 6. Unsheltered Homelessness: Some live in public spaces like parks, streets, and abandoned buildings. These conditions are harsh and unsafe.
 7. Encampments: Informal settlements, or tent cities, are created by homeless communities. While they offer some protection and community, they often lack basic amenities.
-Challenges Faced by Homeless Individuals
-1. Health Risks: Exposure to the elements, lack of sanitation, and limited access to healthcare contribute to poor health outcomes.
-2. Safety Concerns: Homeless individuals are at higher risk of violence, theft, and exploitation.
-3. Access to Services: Barriers such as lack of identification, transportation, and awareness limit access to social services and employment opportunities.
 
 **Technical Stack:**  
 Languages: C++, Java
