@@ -21,9 +21,9 @@ Living Conditions of the Homeless
 7. Encampments: Informal settlements, or tent cities, are created by homeless communities. While they offer some protection and community, they often lack basic amenities.
 
 **Technical Stack:**  
-Languages: C++, Java
-Algorithms: Dijkstra’s, Greedy Algorithm, Dynamic Programming, Graph Traversal (DFS/BFS), Max Flow
-Tools: Graphs, DAA Optimization Techniques
+1. Languages: C++, Java
+2. Algorithms: Dijkstra’s, Greedy Algorithm, Dynamic Programming, Graph Traversal (DFS/BFS), Max Flow
+3. Tools: Graphs, DAA Optimization Techniques
 
 **Impact:**
 1. Health: Poor physical and mental health, higher mortality rates.
